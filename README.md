@@ -70,7 +70,3 @@ Steps:
 7. Create a new Organizational Unit: **_CLIENTS**  
 8. Move **Client 1** into the **_CLIENTS** OU.
 
-This completes the domain join process and ensures proper organization of domain assets.
-
----
-
