@@ -2,14 +2,15 @@
 
 This walkthrough covers the process of deploying a new Active Directory forest, creating administrative accounts, and joining a client machine to the domain. These steps prepare a functional domain controller environment for future identity and access management labs.
 
+<h2>Video Demonstration</h2>
+
+- ### [YouTube: Configuring Active Directory](https://youtu.be/YN10JL2kAig)
 ---
 
 ## Table of Contents
 - [Installing Active Directory Domain Services](#installing-active-directory-domain-services)
 - [Creating a Domain Admin Account](#creating-a-domain-admin-account)
 - [Joining Client 1 to the Domain](#joining-client-1-to-the-domain)
-- [Optional Screenshots Section](#optional-screenshots-section)
-
 ---
 
 ## Installing Active Directory Domain Services
