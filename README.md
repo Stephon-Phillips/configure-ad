@@ -14,6 +14,7 @@ This walkthrough covers the process of deploying a new Active Directory forest, 
 ---
 
 ## Installing Active Directory Domain Services
+<img width="80%" height="80%" alt="Screenshot (240)" src="https://github.com/user-attachments/assets/0b97248e-c932-4f33-a4b8-11363239410e" />
 
 Begin by setting up the first domain controller and creating a new forest.
 
