@@ -10,7 +10,7 @@ This walkthrough covers the process of deploying a new Active Directory forest, 
 ## Table of Contents
 - [Installing Active Directory Domain Services](#installing-active-directory-domain-services)
 - [Creating a Domain Admin Account](#creating-a-domain-admin-account)
-- [Joining Client 1 to the Domain](#joining-client-1-to-the-domain)
+- [Joining Client one to the Domain](#joining-client-1-to-the-domain)
 ---
 
 ## Installing Active Directory Domain Services
