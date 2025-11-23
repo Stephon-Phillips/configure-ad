@@ -33,6 +33,7 @@ This establishes the base domain and prepares the environment for additional con
 ---
 
 ## Creating a Domain Admin Account
+<img width="80%" height="80%" alt="Screenshot (241)" src="https://github.com/user-attachments/assets/b7cf8936-3bf7-4ff2-a745-b3ce175f3c74" />
 
 Set up the organizational structure and create a privileged admin account.
 
@@ -55,6 +56,7 @@ Use this new domain admin account for all remaining steps in the lab.
 ---
 
 ## Joining Client 1 to the Domain
+<img width="80%" height="80%" alt="Screenshot (242)" src="https://github.com/user-attachments/assets/76e747d1-b200-4b6a-949a-ec36ff0af566" />
 
 Connect a client computer to the newly created domain.
 
