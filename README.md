@@ -1,3 +1,6 @@
+<p align="center">
+<img width="624" height="426" alt="1_1PvZqbYhEhvgxmVATwl6FA" src="https://github.com/user-attachments/assets/35aed9e3-5c08-4ce6-b222-f258c601a1a5" />
+</p>
 # Active Directory Deployment Walkthrough
 
 This walkthrough covers the process of deploying a new Active Directory forest, creating administrative accounts, and joining a client machine to the domain. These steps prepare a functional domain controller environment for future identity and access management labs.
